@@ -1,0 +1,7 @@
+/sample10
+/csvs
+/venv
+/artifacts
+/__pycache__
+*.csv
+*.json
